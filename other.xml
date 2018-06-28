@@ -1,0 +1,10 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/PycharmProjects/untitled2/venv/bin/python" value="false" />
+        <entry key="$USER_HOME$/PycharmProjects/untitled3/venv/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
